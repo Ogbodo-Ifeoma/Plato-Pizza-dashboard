@@ -1,7 +1,7 @@
 # Plato-Pizza-dashboard
 
 **Plato’s Pizza** hired my services as a **BI consultant** to help the restaurant use data to
-improve operations. The restaurant has been collecting transactional data for the past year, have not been able to put it to good use. 
+improve operations. The restaurant has been collecting transactional data for the past year but has not been able to put it to good use. 
 They hired my services to analyse the data and put together a report to help them find opportunities to drive more
 sales and work more efficiently.
 
